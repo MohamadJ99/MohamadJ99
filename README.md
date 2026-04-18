@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammad AlShanableh
 
-<!--
-**MohamadJ99/MohamadJ99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (React + Laravel)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I design and build scalable full-stack applications with a focus on clean architecture, performance, and maintainability.
+
+---
+
+## ⚙️ What I Do
+
+* Build dynamic and responsive user interfaces
+* Develop RESTful APIs
+* Implement authentication and authorization systems
+* Optimize database queries and performance
+
+---
+
+## 🧠 Core Concepts
+
+* State Management
+* RESTful API Design
+* MVC Architecture
+* Authentication & Authorization
+* Database Optimization
+
+---
+
+## 🏗️ Architecture Focus
+
+* Clean and maintainable code
+* Separation of concerns
+* Scalable backend design
+
+---
+
+## 🧩 Problem Solving
+
+I enjoy breaking down complex problems into simple, maintainable solutions and turning ideas into real applications.
+
+---
+
+## 🛠️ Tech Stack
+
+JavaScript | TypeScript | React | Laravel | PHP | MySQL | Git
+
+---
+
+## 📚 Currently Learning
+
+* System Design
+* Advanced Backend Patterns
+* Clean Architecture
+
+---
+
+## 🌐 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/mohamad-jawad99
+* Email: mohamadjawad9991@gmail.com
