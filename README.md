@@ -1,45 +1,53 @@
 # Hi 👋, I'm Mohammad AlShanableh
 
-💻 Full Stack Developer (React + Laravel)
+💻 Junior Full Stack Developer focused on **Next.js, React, Laravel, and REST APIs**
+
+I enjoy building modern full-stack applications with clean architecture, responsive interfaces, and maintainable backend systems.
 
 ---
 
-## 🧠 About Me
+## 🚀 Featured Project
 
-I design and build scalable full-stack applications with a focus on clean architecture, performance, and maintainability.
+### MJ Social Media App
+
+A full-stack social media application built with **Next.js, TypeScript, Laravel, MySQL, and React Query**.
+
+Key features include:
+
+- Authentication & authorization with Laravel Sanctum
+- Posts, media uploads, likes, comments, and replies
+- User profiles and friendship system
+- Real-time private messaging and notifications with Laravel Reverb
+- Image & video stories with views and 24-hour expiration
+- AI-powered post assistant using OpenRouter
+- Infinite scrolling and responsive design
+- API rate limiting, Policies, Form Requests, and Services
+
+🔗 [Frontend Repository](https://github.com/MohamadJ99/Social-Media-App)  
+🔗 [Backend Repository](https://github.com/MohamadJ99/social-media-api)
 
 ---
 
 ## ⚙️ What I Do
 
-* Build dynamic and responsive user interfaces
-* Develop RESTful APIs
-* Implement authentication and authorization systems
-* Optimize database queries and performance
+- Build responsive frontend applications with **React & Next.js**
+- Develop RESTful APIs with **Laravel & PHP**
+- Implement authentication and authorization systems
+- Design relational databases with **MySQL**
+- Build real-time features and integrate external APIs
+- Write clean and maintainable code
 
 ---
 
 ## 🧠 Core Concepts
 
-* State Management
-* RESTful API Design
-* MVC Architecture
-* Authentication & Authorization
-* Database Optimization
-
----
-
-## 🏗️ Architecture Focus
-
-* Clean and maintainable code
-* Separation of concerns
-* Scalable backend design
-
----
-
-## 🧩 Problem Solving
-
-I enjoy breaking down complex problems into simple, maintainable solutions and turning ideas into real applications.
+- RESTful API Design
+- MVC Architecture
+- Authentication & Authorization
+- State & Server-State Management
+- Database Relationships
+- Clean Code
+- Separation of Concerns
 
 ---
 
@@ -54,18 +62,21 @@ I enjoy breaking down complex problems into simple, maintainable solutions and t
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
+
 
 ## 📚 Currently Learning
 
-* System Design
-* Advanced Backend Patterns
-* Clean Architecture
+- System Design
+- Advanced Laravel & Backend Patterns
+- Clean Architecture
+- Cloud & AWS
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/mohamad-jawad99
-* Email: mohamadjawad9991@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamad-jawad99
+- Email: mohamadjawad9991@gmail.com
